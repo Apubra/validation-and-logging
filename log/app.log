@@ -1,0 +1,3 @@
+[2021-02-27T14:04:14.461] [WARN] vaccineProfile - [logging_and_validation]  "id" must be a number
+[2021-02-27T14:07:08.115] [WARN] vaccineProfile - [logging_and_validation]  "id" must be a number
+[2021-02-27T14:08:55.351] [ERROR] LoggingAndValidation - [logging_and_validation]  "id" must be a number

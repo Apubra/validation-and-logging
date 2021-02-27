@@ -1,0 +1,26 @@
+{
+  "name": "validation-and-logging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apubra/validation-and-logging.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apubra/validation-and-logging/issues"
+  },
+  "homepage": "https://github.com/Apubra/validation-and-logging#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "log4js": "^6.3.0"
+  }
+}
